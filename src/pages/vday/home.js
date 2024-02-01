@@ -75,7 +75,7 @@ function HelloKitty(){
 
                 {showNext ? 
                     <div className="mt-4 rounded-full bg-[#fbcfe8] w-full flex justify-center items-center hover:opacity-70 text-xl " > 
-                          <Link className='w-full flex justify-center' to = '/ZaFrog'>Next &raquo;</Link>
+                          <Link className='w-full flex justify-center' to = '/CarlandHazel/ZaFrog'>Next &raquo;</Link>
 
                     </div>
                 :null}

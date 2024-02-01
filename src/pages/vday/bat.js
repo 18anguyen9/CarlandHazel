@@ -72,7 +72,7 @@ function Bat(){
 
                 {showNext ? 
                     <div className="mt-4 rounded-full bg-black w-full flex justify-center items-center hover:opacity-70 text-xl " > 
-                          <Link className='w-full flex justify-center text-white' to = '/POMPOM_Y_HAZEL'>Next &raquo;</Link>
+                          <Link className='w-full flex justify-center text-white' to = '/CarlandHazel/POMPOM_Y_HAZEL'>Next &raquo;</Link>
 
                     </div>
                 :null}

@@ -72,7 +72,7 @@ function Pom(){
 
                 {showNext ? 
                     <div className="mt-4 rounded-full bg-[#713f12]  w-full flex justify-center items-center hover:opacity-70 text-xl " > 
-                          <Link className='w-full flex justify-center text-white' to = '/melody'>Next &raquo;</Link>
+                          <Link className='w-full flex justify-center text-white' to = '/CarlandHazel/melody'>Next &raquo;</Link>
 
                     </div>
                 :null}

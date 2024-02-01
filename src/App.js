@@ -19,15 +19,15 @@ function App() {
     <BrowserRouter >
       <div className='h-[1000px]'>
         <Routes>
-          <Route path="/" element={<Sanrio_Home />}> </Route>
-          <Route path="/home" element={<Home />}> </Route>
+          <Route path="/CarlandHazel" element={<Sanrio_Home />}> </Route>
+          <Route path="/CarlandHazel/home" element={<Home />}> </Route>
           <Route path="/contact" element={<Contact />}> </Route>
-          <Route path="/cat" element={<Cat />}> </Route>
-          <Route path="/ZaFrog" element={<Kerropi />}> </Route>
-          <Route path="/HelloKitty" element={<HelloKitty />}> </Route>
-          <Route path="/BatMaruCarlHeretoo" element={<Bat />}> </Route>
-          <Route path="/POMPOM_Y_HAZEL" element={<Pom />}> </Route>
-          <Route path="/melody" element={<Melody />}> </Route>
+          <Route path="/CarlandHazel/cat" element={<Cat />}> </Route>
+          <Route path="/CarlandHazel/ZaFrog" element={<Kerropi />}> </Route>
+          <Route path="/CarlandHazel/HelloKitty" element={<HelloKitty />}> </Route>
+          <Route path="/CarlandHazel/BatMaruCarlHeretoo" element={<Bat />}> </Route>
+          <Route path="/CarlandHazel/POMPOM_Y_HAZEL" element={<Pom />}> </Route>
+          <Route path="/CarlandHazel/melody" element={<Melody />}> </Route>
         </Routes>
       </div>
       

@@ -24,7 +24,7 @@ function Sanrio_Home(){
                     Welcome to the Homedog Quiz of Love!!
                 </div>
                 <div className="text-6xl bg-[#fecdd3] rounded-full w-1/5 hover:opacity-70">
-                <Link className='w-full flex justify-center hover:opacity-70' to = '/HelloKitty'>Start</Link>
+                <Link className='w-full flex justify-center hover:opacity-70' to = '/CarlandHazel/HelloKitty'>Start</Link>
                 </div>
 
         </div>
