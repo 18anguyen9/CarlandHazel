@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CarlandHazel/static/css/main.f99673fc.css",
-    "main.js": "/CarlandHazel/static/js/main.0c4ca061.js",
+    "main.js": "/CarlandHazel/static/js/main.c60491cb.js",
     "static/js/787.3503cf78.chunk.js": "/CarlandHazel/static/js/787.3503cf78.chunk.js",
     "static/media/mel_heart.gif": "/CarlandHazel/static/media/mel_heart.c2d7f0de667822b7af24.gif",
     "static/media/pen.gif": "/CarlandHazel/static/media/pen.0fb91be9b6e8c973dc62.gif",
@@ -19,11 +19,11 @@
     "static/media/city.svg": "/CarlandHazel/static/media/city.b784a4115d164d3f47faddc234f29221.svg",
     "index.html": "/CarlandHazel/index.html",
     "main.f99673fc.css.map": "/CarlandHazel/static/css/main.f99673fc.css.map",
-    "main.0c4ca061.js.map": "/CarlandHazel/static/js/main.0c4ca061.js.map",
+    "main.c60491cb.js.map": "/CarlandHazel/static/js/main.c60491cb.js.map",
     "787.3503cf78.chunk.js.map": "/CarlandHazel/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f99673fc.css",
-    "static/js/main.0c4ca061.js"
+    "static/js/main.c60491cb.js"
   ]
 }
